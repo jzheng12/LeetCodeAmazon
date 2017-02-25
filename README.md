@@ -1,20 +1,38 @@
 # LeetCodeAmazon
 
 3 Sum
+
 Kth Largest Number
+
 Kth Largest Number 2
+
 Kth Smallest Element in a BST
+
 LRU Cache
+
 Maximum Subarray
+
 Palindrome Linked List
+
 Permutations
+
 Subsets
+
 Subsets II
+
 Two Sum
+
 Valid Parentheses
+
 Binary Tree Level Order Traversal
+
 Binary Tree Level Order Traversal II
+
+Binary Tree Zigzag
+
 Compare Version Numbers
+
+
 Count 1
 Implement strStr()
 reverse String
@@ -70,7 +88,7 @@ Word Break
 Add Two Numbers
 Add Two Numbers
 Binary Tree Inorder Traversal
-Binary Tree Zigzag
+
 First Missing Positive
 Hash String
 Integer to Roman
