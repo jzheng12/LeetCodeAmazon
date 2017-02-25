@@ -1,6 +1,5 @@
 # LeetCodeAmazon
 
-For Amazon intern phone interview leetcode
 3 Sum
 Kth Largest Number
 Kth Largest Number 2
