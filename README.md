@@ -1,0 +1,3 @@
+# LeetCodeAmazon
+
+For Amazon leetcode
