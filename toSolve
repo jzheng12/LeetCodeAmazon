@@ -24,7 +24,6 @@ Increase Alphabet
 Interval 1
 Interval 2
 K Buckets
-Maximum Depth of Binary Tree
 Merge Interval
 Merge k Sorted Lists
 Minimum Path Sum
@@ -39,7 +38,6 @@ Pow(x, n)
 Search in Rotated Sorted Array
 Search in Rotated Sorted Array II
 Valid Anagram
-Validate Binary Search Tree
 Wiggle Sort
 Word Break
 从一个文件中数word的数量
@@ -50,7 +48,6 @@ First Missing Positive
 Hash String
 Integer to Roman
 Name List
-Permutations II
 Roman to Integer
 Serialize and Deserialize Binary Tree
 Single Number
