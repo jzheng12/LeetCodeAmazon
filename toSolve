@@ -1,27 +1,20 @@
 Kth Largest Number 2
-Valid Parentheses
-Binary Tree Level Order Traversal
 Binary Tree Level Order Traversal II
 Binary Tree Zigzag
 Compare Version Numbers
 Count 1
 Implement strStr()
-reverse String
 Valid Palindrome
 2GB的file如何sort，如果内存不够用
 Binary Search Tree Iterator
-BST的search
 Coin Change
 Coin Change 2
-Contains Duplicate
-Contains Duplicate II
 Contains Duplicate III
 Convert a BST to a Binary Tree such that sum of all greater keys is added to every key
 Count and Say
 Count and Say 2
 Count and Say 3
 Count Sort
-Delete Node in a Linked List
 Find Minimum in Rotated Sorted Array
 find occurances in a sorted array
 implement priorityqueue
@@ -34,7 +27,6 @@ K Buckets
 Maximum Depth of Binary Tree
 Merge Interval
 Merge k Sorted Lists
-Merge Two Sorted Lists
 Minimum Path Sum
 Missing Number
 Number of Islands
@@ -44,10 +36,8 @@ Palindrome Partitioning
 Path Sum II
 Path Sum III
 Pow(x, n)
-Reverse Linked List
 Search in Rotated Sorted Array
 Search in Rotated Sorted Array II
-Symmetric Tree
 Valid Anagram
 Validate Binary Search Tree
 Wiggle Sort
@@ -56,7 +46,6 @@ Word Break
 找两个list里面一个有一个没有的找相同ID
 找最贵的船
 Add Two Numbers
-Binary Tree Inorder Traversal
 First Missing Positive
 Hash String
 Integer to Roman
