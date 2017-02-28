@@ -1,6 +1,4 @@
 Kth Largest Number 2
-Binary Tree Level Order Traversal II
-Binary Tree Zigzag
 Compare Version Numbers
 Count 1
 Implement strStr()
@@ -9,7 +7,6 @@ Valid Palindrome
 Binary Search Tree Iterator
 Coin Change
 Coin Change 2
-Contains Duplicate III
 Convert a BST to a Binary Tree such that sum of all greater keys is added to every key
 Count and Say
 Count and Say 2
@@ -26,15 +23,11 @@ Interval 2
 K Buckets
 Merge Interval
 Merge k Sorted Lists
-Minimum Path Sum
 Missing Number
 Number of Islands
 number of islands (one dimensional)
 Palindrome Number
 Palindrome Partitioning
-Path Sum II
-Path Sum III
-Pow(x, n)
 Search in Rotated Sorted Array
 Search in Rotated Sorted Array II
 Valid Anagram
@@ -58,3 +51,5 @@ Triangle
 wiggle sort list
 Zigzag Iterator
 找到第一个只出现一次的char的index
+Contains Duplicate III
+Minimum Path Sum
