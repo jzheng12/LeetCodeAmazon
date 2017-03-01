@@ -21,7 +21,6 @@ Interval 2
 K Buckets
 Merge Interval
 Merge k Sorted Lists
-Missing Number
 Number of Islands
 number of islands (one dimensional)
 Palindrome Number
@@ -33,11 +32,8 @@ Word Break
 找两个list里面一个有一个没有的找相同ID
 找最贵的船
 Add Two Numbers
-First Missing Positive
 Hash String
-Integer to Roman
 Name List
-Roman to Integer
 Serialize and Deserialize Binary Tree
 Single Number
 Single Number II
@@ -47,5 +43,4 @@ Triangle
 wiggle sort list
 Zigzag Iterator
 找到第一个只出现一次的char的index
-Contains Duplicate III
 Minimum Path Sum
