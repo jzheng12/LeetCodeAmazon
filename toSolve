@@ -13,7 +13,6 @@ Count and Say 3
 Count Sort
 find occurances in a sorted array
 implement priorityqueue
-Implement Stack Using Queue
 In place sort, without temp
 Increase Alphabet
 Interval 1
@@ -23,15 +22,11 @@ Merge Interval
 Merge k Sorted Lists
 Number of Islands
 number of islands (one dimensional)
-Palindrome Number
 Palindrome Partitioning
-Valid Anagram
-Wiggle Sort
 Word Break
 从一个文件中数word的数量
 找两个list里面一个有一个没有的找相同ID
 找最贵的船
-Add Two Numbers
 Hash String
 Name List
 Serialize and Deserialize Binary Tree
