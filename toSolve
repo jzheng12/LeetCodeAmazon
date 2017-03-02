@@ -1,9 +1,5 @@
-Kth Largest Number 2
 Compare Version Numbers
 Implement strStr()
-2GB的file如何sort，如果内存不够用
-Coin Change
-Coin Change 2
 Convert a BST to a Binary Tree such that sum of all greater keys is added to every key
 find occurances in a sorted array
 implement priorityqueue
@@ -27,9 +23,10 @@ Zigzag Iterator
 找到第一个只出现一次的char的index
 Minimum Path Sum
 
+2GB的file如何sort，如果内存不够用
 找最贵的船
 Count and Say 2
 Count and Say 3
 Count Sort
 找两个list里面一个有一个没有的找相同ID
-
+Kth Largest Number 2
