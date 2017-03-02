@@ -1,18 +1,15 @@
-K Buckets
 Number of Islands
 number of islands (one dimensional)
 Palindrome Partitioning
-从一个文件中数word的数量
 Hash String
-Name List
 Serialize and Deserialize Binary Tree
 sqrt(x)
 Triangle
-wiggle sort list
 Zigzag Iterator
-找到第一个只出现一次的char的index
 Minimum Path Sum
 
+找到第一个只出现一次的char的index
+K Buckets
 Increase Alphabet
 In place sort, without temp
 implement priorityqueue
@@ -27,3 +24,6 @@ Count Sort
 Kth Largest Number 2
 Interval 1
 Interval 2
+从一个文件中数word的数量
+Name List
+wiggle sort list
