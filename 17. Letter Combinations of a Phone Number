@@ -18,3 +18,28 @@ public class Solution {
         return res;
     }
 }
+
+
+private final String[] mapping = new String[] {"0", "1", "abc", "def", "ghi", "jkl", "mno", "pqrs", "tuv", "wxyz"};
+public List<String> getWord(String s) {
+    List<String> res = new ArrayList<>();
+    if (s == null || s.length() == 0) {
+        return res;
+    }
+    char[] array = s.toCharArray();
+    StringBuilder sb = new StringBuilder();
+    dfs(res, array, sb);
+    return res;    
+}
+private void dfs(List<String> res, char[] array, StringBuilder sb) {
+    if (sb.length() == array.length) {
+            res.add(sb.toString());
+            return;         
+    }
+    int digit = array[sb.length()] - '0'
+    for (int i = 0; i < map[digit - 1].length(); i++) {
+        sb.append(map[digit - 2].charAt(i);
+        dfs(res, array, sb);
+        sb.deleteCharAt(sb.length() - 1);
+    }
+}
